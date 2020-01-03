@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Selenium with C#",
+      "author": "Karthik KK"
+    },
+    {
+      "id": 2,
+      "nome": "Appium",
+      "author": "Karthik KK"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": "13",
+      "title": "RestSharpDemo course",
+      "author": "Execute Automation"
+    },
+    {
+      "id": "17",
+      "title": "RestSharpDemo course",
+      "author": "Execute Automation"
+    },
+    {
+      "id": "23",
+      "title": "RestSharpDemo course",
+      "author": "Execute Automation"
+    },
+    {
+      "id": "56",
+      "title": "RestSharp demo course",
+      "author": "Execute Automation"
+    },
+    {
+      "id": "39",
+      "title": "RestSharpDemo course",
+      "author": "Execute Automation"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "nome": "Excellent course",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Raj",
+    "postId": "1"
+  },
+  "address": {
+    "primary": [
+      {
+        "city": "Auckland",
+        "state": "Auckland",
+        "country": "New Zeland",
+        "pinCode": 1010
+      },
+      {
+        "city": "Queenstown",
+        "state": "Queenstown",
+        "country": "New Zeland",
+        "pinCode": 34232
+      }
+    ],
+    "secondary": [
+      {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "pinCode": 600100
+      }
+    ]
+  }
+}
